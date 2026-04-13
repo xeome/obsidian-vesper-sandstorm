@@ -2,6 +2,10 @@
 Vesper-Sandstorm Theme for Obsidian
 Vesper structure + Sandstorm warm brown palette
 Based on Vesper by @omarrashad and Sandstorm by @jaysan0
+
+Code syntax highlighting: Base16 Black Metal (Bathory)
+https://github.com/metalelf0/base16-black-metal-scheme
+by @metalelf0
 */
 
 .theme-dark {
@@ -25,6 +29,20 @@ Based on Vesper by @omarrashad and Sandstorm by @jaysan0
   --checklist-done-color: #d8c2b4;
   --checkbox-color: #93684e;
   --link-external-color-hover: #a87d60;
+
+  /* Bathory code colors */
+  --code-background: #000000;
+  --code-normal: #c1c1c1;
+  --code-comment: #333333;
+  --code-function: #e78a53;
+  --code-important: #5f8787;
+  --code-keyword: #5f8787;
+  --code-operator: #444444;
+  --code-property: #888888;
+  --code-punctuation: #444444;
+  --code-string: #fbcb97;
+  --code-tag: #5f8787;
+  --code-value: #aaaaaa;
 }
 
 .theme-light {
@@ -47,4 +65,18 @@ Based on Vesper by @omarrashad and Sandstorm by @jaysan0
   --checklist-done-color: #2a2119;
   --checkbox-color: #93684e;
   --link-external-color-hover: #a87d60;
+
+  /* Bathory code colors */
+  --code-background: #000000;
+  --code-normal: #c1c1c1;
+  --code-comment: #333333;
+  --code-function: #e78a53;
+  --code-important: #5f8787;
+  --code-keyword: #5f8787;
+  --code-operator: #444444;
+  --code-property: #888888;
+  --code-punctuation: #444444;
+  --code-string: #fbcb97;
+  --code-tag: #5f8787;
+  --code-value: #aaaaaa;
 }

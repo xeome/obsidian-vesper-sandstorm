@@ -24,7 +24,7 @@ Once merged into the Obsidian community themes list, search for "Vesper-Sandstor
 
 ## Based On
 
-- **Vesper** by [@omarrashad](https://github.com/omarrashad/vesper) — theme structure
+- **Vesper** by [@omarrashad](https://github.com/omarrashad/obsidian-vesper) — theme structure
 - **Sandstorm** by [@jaysan0](https://github.com/jaysan0/obsidian-sandstorm) — warm brown color palette
 
 ## License
